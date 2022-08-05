@@ -25,7 +25,7 @@
 <img src="live-project-01.png" alt="Street Style Landing Page Desktop View">
 <div align="center">
   <h3> 
-    <a href="https://starlit-empanada-46e5a6.netlify.app/">
+    <a href="https://starlit-empanada-46e5a6.netlify.app/" target="_blank">
       Live Demo
     </a>
   </h3>
